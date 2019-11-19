@@ -1,0 +1,31 @@
+body {
+    margin: 50px 500px;
+    align-self: left;
+    background-clip: border-box; 
+}
+
+img {
+    width: 500px;
+    height: 300px;
+}
+
+button {
+    
+    height: 40px;
+text-align: center;
+cursor: pointer;
+width: 150px;
+margin: 10px;}
+
+
+div {
+    justify-content:left;
+    width: 500px;
+    height: 301px;
+    color:black;
+}
+
+h1 {
+    text-align: left;
+    text-decoration-line: underline;
+}
